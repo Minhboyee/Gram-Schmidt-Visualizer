@@ -1,0 +1,5 @@
+{
+  "name": "Gram-Schmidt Visualizer",
+  "description": "An interactive educational tool to visualize the Gram-Schmidt orthogonalization process in 2D and 3D space.",
+  "requestFramePermissions": []
+}
